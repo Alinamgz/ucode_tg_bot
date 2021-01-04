@@ -1,0 +1,8 @@
+.idea/**/*
+.vscode/**/*
+*.iml
+*.xml
+*.psd
+*.env
+node_modules/**/*
+package-lock.json
